@@ -27,11 +27,9 @@
     <br/>
   </div>
   
-  <center>
-    <h3> Heading 3 is centered</h3>
-    <p><span> Centered span inside the paragraph.</span><p>
-  </center>
-  
+  <h3 align="center"> Heading 3 is centered</h3>
+  <p align="center"><span> Centered span inside the paragraph.</span><p>
+    
   Two horizontal line is drawn using two 'hr' tag.
   <hr />
   <hr>
