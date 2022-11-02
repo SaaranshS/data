@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HTML Tutorial</title>
+HTML Tutorial
 </head>
 <body alink="green" link="blue" vlink="red">
   <h1> Hello World! </h1>
