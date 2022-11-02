@@ -2,7 +2,7 @@
 <head>
 HTML Tutorial
 </head>
-<body alink="green" link="blue" vlink="red">
+<body>
   <h1> Hello World! </h1>
   
   <p> This is the first HTML code </p>
